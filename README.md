@@ -15,11 +15,11 @@ In order to connect the object detect process to ROS, A package was created to r
 
 The figure below shows the transition; sending and receiving of image topic among the camera package main node.
 
-![](Aspose.Words.4c83d0f6-44a4-4e09-83a2-1ff6e0378b87.003.png)
+![](gazeboworld.png)
 
 Figure 2: gazeboworld
 
-![](Aspose.Words.4c83d0f6-44a4-4e09-83a2-1ff6e0378b87.004.png)
+![](camtf.png)
 
 Figure 3: TF for camera’s package
 2
