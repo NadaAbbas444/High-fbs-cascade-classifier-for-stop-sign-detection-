@@ -7,7 +7,7 @@ The main application was to detect and classify A stop sign. both methods were a
 
 ![](ezgif.com-video-to-gif.gif)
 
-![](Aspose.Words.4c83d0f6-44a4-4e09-83a2-1ff6e0378b87.001.png) ![](Aspose.Words.4c83d0f6-44a4-4e09-83a2-1ff6e0378b87.002.png)
+![](stopsign1_hass.png) ![](stopsign2_hass.png)
 
 Figure 1: Cascade classification
 
